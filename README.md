@@ -1,3 +1,5 @@
+![Omar Yesid Mariño: Python, AWS, Generative & Agentic AI](github_header.png)
+
 # Omar Yesid Mariño
 
 **Senior Software Engineer** · Python, AWS, Generative & Agentic AI · 20+ years building APIs, cloud and data solutions · Bogotá, Colombia
